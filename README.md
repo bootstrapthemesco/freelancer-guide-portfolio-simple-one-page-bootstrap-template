@@ -2,7 +2,7 @@
 
 
 
-####http://bootstrapthemes.co/item/freelancer-guide-web-template/
+####http://bootstrapthemes.co/item/freelancer-one-page-html-portfolio-template/
 
 
 Freelancer is a creative and modern Web Template suitable for photographers, freelancers and creative agencies and Studios. Its designed on Bootstrap grid and can be easily converted into WordPress. The Web Template file is perfectly organized, so You could easily customize everything.
@@ -15,9 +15,17 @@ Freelancer is a creative and modern Web Template suitable for photographers, fre
 
 
 ####Credits
-Psd Created by: Wojtek Kwiatkowski
-
-Framework: Bootstrap
+* Psd Created by: Wojtek Kwiatkowski
+* Bootstrap
+* jQuery
+* Owl Carousel
+* Animate.css
+* MagnificPopup
+* Font Awesome
+* Smooth Scroll
+* jQuery Waypoints 
+* LocalScroll  
+* WOW JS
 
 
 
